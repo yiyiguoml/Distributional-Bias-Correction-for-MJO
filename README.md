@@ -1,6 +1,6 @@
-# MJO Probabilistic Correction with Deep Bias Correction
+# Distributional Bias Correction for Madden-Julian Oscillation Forecast
 
-Code and data for the paper: "Probabilistic Bias Correction of MJO Forecasts using Deep Bias Correction"
+Code and data for the paper: "Distributional Bias Correction for Madden-Julian Oscillation Forecast"
 
 ## Overview
 
